@@ -1,6 +1,97 @@
-#header {
+h1 {
     background-color: gray;
     color: brown;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+
+/* Lasagna */
+.lasagna {
+    font-size: 30px;
+    font-family: apple chancery, cursive;
+    color: white;
+    background-color: black;
+}
+
+#p {
+    color: gold;
+    background-color: tomato;
+    font-family: fantasy;
+}
+.lasagna-list {
+    font-family: trattatello, fantasy;
+    font-weight: 800;
+}
+
+#h2 {
+    color: cadetblue;
+    background-color: chartreuse;
+    font-size: 20px;
+}
+
+.lasagna-instructions {
+    font-style: italic;
+    font-family: Impact, fantasy;
+    color: blue;
+}
+
+/* hotdog.html */
+
+#hhd{
+    font-size: 30px;
+    color:coral;
+    background-color: chartreuse;
+
+}
+
+#p1 {
+    font-family: Snell Roundhand, cursive;
+
+}
+
+.hotdog-list {
+    color: blueviolet;
+    background-color: yellow;
+}
+
+#p2 {
+    font-family: chalkduster, fantasy;
+    color: black;
+    background-color: wheat;
+}
+
+.hotdog-instructions {
+    font-family: American Typewriter, serif;
+    color: crimson;
+}
+/* cheese.html */
+
+.cheese {
+    background-color: yellow;
+    color: brown;
+    font-family:'Times New Roman', Times, serif
+}
+
+#p1 {
+    font-size: 20px;
+    background-color: blueviolet;
+    color:aquamarine ;
+}
+
+.cheese-list {
+    font-size: small;
+    font-weight: bold;
+    color: darkgreen;
+    background-color: orange;
+}
+
+.cheese-instructions {
+    font-family: Luminari, fantasy;
+    background-color: bisque;
+
+}
+#h2 {
+    font-weight: bold;
+    font-family: Luminari, fantasy;
 }
